@@ -1,5 +1,4 @@
 const express = require("express");
-const { parse } = require("path");
 const app = express();
 
 app.listen(3000, () => {
